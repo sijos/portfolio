@@ -301,11 +301,11 @@ a, a:active, a:focus {outline: 0 !important; text-decoration: none !important;}
 	background-size: cover;
 	position: relative;
 }
-#home.main {background-image: url("http://placehold.it/1920x1280");}
-#home.bg-2 {background-image: url("http://placehold.it/1920x1280");}
-#home.bg-3 {background-image: url("http://placehold.it/1920x1280");}
+#home.main {background-image: url("../img/city-background.jpg");}
+#home.bg-2 {background-image: url("../img/city-background.jpg");}
+#home.bg-3 {background-image: url("../img/city-background.jpg");}
 #home.parallax {
-	background-image: url("http://placehold.it/1920x1280");
+	background-image: url("../img/city-background.jpg");
 	background-attachment: fixed;
 }
 
