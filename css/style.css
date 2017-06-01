@@ -799,7 +799,7 @@ a, a:active, a:focus {outline: 0 !important; text-decoration: none !important;}
     ( 13 ) Start Skills Section
 * ------------------------------------- */
 #skills {
-	background: #333 url("http://placehold.it/1920x1280");
+	background: #333 url("../img/skills-background1.jpg");
 	background-repeat: no-repeat;
 	background-position: center;
 	background-size: cover;
@@ -1015,7 +1015,7 @@ a, a:active, a:focus {outline: 0 !important; text-decoration: none !important;}
     ( 17 ) Start Contact Section
 * ------------------------------------- */
 #contact {
-	background: #333 url("http://placehold.it/1920x1280");
+	background: #333 url("../img/contact-background.jpg");
 	background-repeat: no-repeat;
 	background-position: center;
 	background-size: cover;
