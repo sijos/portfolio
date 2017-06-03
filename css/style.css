@@ -182,12 +182,12 @@ a, a:active, a:focus {outline: 0 !important; text-decoration: none !important;}
 	width: 50px;
 	height: 50px;
 	margin: auto;
-	background: #30e0e0;
+	background: #38C8BD;
 	-webkit-animation: rotateRec 1.5s infinite ease-in-out;
 			animation: rotateRec 1.5s infinite ease-in-out;
 }
 .loading .loading-wrapper h4 {
-	color: #30e0e0;
+	color: #38C8BD;
 	letter-spacing: 6px;
 	margin-top: 30px;
 }
